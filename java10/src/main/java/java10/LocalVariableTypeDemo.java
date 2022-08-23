@@ -1,3 +1,5 @@
+package java10;
+
 import java.util.Arrays;
 
 public class LocalVariableTypeDemo {
